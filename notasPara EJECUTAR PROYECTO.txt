@@ -1,0 +1,4 @@
+-la base de datos se crea automaticamente, pero antes se debe crear el el esquema en mysql worbech con el nombre
+de "base_examen_final"
+
+EL EPROYECTO FUE REALIZADO CON EL IDE DE INTELLIJ
