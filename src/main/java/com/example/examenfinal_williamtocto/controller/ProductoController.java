@@ -1,6 +1,6 @@
 package com.example.examenfinal_williamtocto.controller;
 
-import com.example.examenfinal_williamtocto.model.Cliente;
+
 import com.example.examenfinal_williamtocto.model.Producto;
 
 import com.example.examenfinal_williamtocto.service.ProductoService;
